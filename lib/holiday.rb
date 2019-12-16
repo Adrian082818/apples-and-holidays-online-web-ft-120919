@@ -76,7 +76,7 @@ if supplies.include?("BBQ")
   return event
 end 
 end 
-end .flatten.compact
+end.flatten.compact
 end 
 
 
